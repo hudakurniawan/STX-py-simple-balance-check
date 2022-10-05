@@ -1,2 +1,4 @@
 # STX-py-simple-balance-check
-Simple Python STX Balance Checker
+Simple Stacks (STX) balance checker
+
+This python script will display your STX balance with a timestamp.
